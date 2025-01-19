@@ -96,7 +96,7 @@ Compression ratio: 1.23x
 
 After inference complete, the compressed image will be saved in the experiment directory.
 
-![comparison-image](experiments/experiment_20250118_192914/inference_results/comparison_20250118_202829.png)
+![comparison-image](imgs/sample_comparison.png)
 
 
 The result is fantastic, right?
