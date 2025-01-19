@@ -107,6 +107,8 @@ The result is fantastic, right?
  - [ ] Adjust learning rate based on the training trend.
  - [ ] Accelerate the data loading process.
  - [ ] Adjust the batch size based on the available memory.
+ - [ ] Write a Makefile for the project.
+ - [ ] Display the model architecture with https://netron.app/ 
  - [ ] Make the model small enough to run on Raspberry Pi or other low-end devices.
  - [ ] Run the repository on multiple devices including GPU, MPS, and CPU and report the training, validation, and inference times.
  - [ ] Add more architectures to the repository for the same purpose which is image compression.
