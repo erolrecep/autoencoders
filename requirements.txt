@@ -1,0 +1,6 @@
+pytorch
+torchvision
+torchviz
+matplotlib
+libpng
+jpeg
