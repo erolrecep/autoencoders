@@ -113,3 +113,10 @@ The result is fantastic, right?
  - [ ] Build a web application for the inference process.
  - [ ] Build a mobile application for the inference process.
     + [ ] iOS with ONNX model.
+
+
+## Contributing
+
+If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+
+Happy autoencoding!
